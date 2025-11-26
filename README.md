@@ -1,2 +1,2 @@
 # resize
-resize images folder to folder
+resize images folder1 to folder2
